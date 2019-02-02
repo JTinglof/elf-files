@@ -1,10 +1,6 @@
-# CS530Assignment1
+# Exploring Elf Files
 
-Joseph
-
-Tinglof
-
-jbtinglof@gmail.com
+Three programs that will generate a 32 bit checksum based on the content of a elf file.
 
 ## **Files Included:**
 
