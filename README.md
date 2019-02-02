@@ -1,6 +1,6 @@
 # Exploring Elf Files
 
-Three programs that will generate a 32 bit checksum based on the content of a elf file.
+Three programs that will generate a 32 bit checksum based on the content of an elf file.
 
 ## **Files Included:**
 
@@ -19,7 +19,7 @@ Compile with gcc and then pass in command line arguments in the following order.
 
 ./prog1_3 file_name section_name
 
-Where file is a Elf binary executable and section_name is the name of a section header 
+Where file_name is a Elf binary executable and section_name is the name of a section header 
 inside the target file. 
 
 ## **Design Choices**
