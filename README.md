@@ -1,6 +1,6 @@
 # Checksumming Elf Files
 
-Three programs that will generate a 32 bit checksum based on the content of an elf file.
+Three programs that will generate a 32 bit checksum based on the content of an Executable and Linkable Format (ELF) file.
 
 ## **Files Included:**
 
