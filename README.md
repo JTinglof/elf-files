@@ -1,4 +1,4 @@
-# Exploring Elf Files
+# Checksumming Elf Files
 
 Three programs that will generate a 32 bit checksum based on the content of an elf file.
 
